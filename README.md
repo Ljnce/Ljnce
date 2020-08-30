@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=333333&height=160&section=header&text=Hello%20Dev%20🙋&fontSize=50&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rect&color=333333&height=180&section=header&text=Hello%20Dev%20🙋&fontSize=50&fontAlign=50&fontColor=FFFFFF)
 
 <p>My name is Luca and i'm a Neo Jr Full Stack Web Developer. I'm from Italy. </p>
 
