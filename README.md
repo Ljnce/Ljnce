@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=333333&height=160&section=header&text=Hello%20Dev%20👋&fontSize=30&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=egg&color=333333&height=160&section=header&text=Hello%20Dev&fontSize=30&fontAlign=50&fontColor=FFFFFF)
+<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
 <p>My name is Luca and i'm a Neo Jr Full Stack Web Developer </p>
 <h1> I'm in passion with: </h1>
@@ -15,6 +16,7 @@
 <h4r>&#183; 💼 https://www.linkedin.com/in/lucalincetto/</h4>
 
 <p> You are visitor number: </p>
+
 ![Visitor Count](https://profile-counter.glitch.me/Ljnce/count.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&section=footer&color=333333&height=160&text=Thanks%20for%20watch%20my%20repo%20🙋‍♂️&fontSize=30&fontAlign=50&fontColor=FFFFFF)
