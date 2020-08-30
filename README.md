@@ -7,7 +7,7 @@
 
 <h1> I'm in passion with: </h1>
 <h4>&#183; 👨‍💻 Coding</h4>
-<h4>&#183; 🕵️‍♂️ Search new code to study</h4>
+<h4>&#183; 🕵️‍♂️ Search news about code </h4>
 <h4>&#183; 🛫 Travel</h4>
 <h4>&#183; 🏃‍♂️ Running & Cycling 🚵‍♂️ </h4>
 
