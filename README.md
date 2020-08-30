@@ -4,7 +4,7 @@
 
 </br>
 
-<h1> I'm in passion with: </h1>
+<h1 style='color:red'>I'm in passion with : </h1>
 <h4>&#9745; 👨‍💻 Coding</h4>
 <h4>&#9745; 🕵️‍♂️ Search news about code </h4>
 <h4>&#9745; 🛫 Travel</h4>
