@@ -8,8 +8,11 @@
 <h4r>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h4>
 
 <h1> I'm learning: </h1>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="50"> <strong> & </strong>  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="50"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="50"> <strong> & </strong>  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="150"></p>
 
+<h1> Get in Touch: </h1>
+<h4>&#183; 💻 https://therunnerpost.it </h4>
+<h4r>&#183; 💼 https://www.linkedin.com/in/lucalincetto/</h4>
 
 
 <p> You are visitor number: </p>
