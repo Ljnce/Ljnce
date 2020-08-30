@@ -7,8 +7,8 @@
 <h4>&#183; 🛫 Travel</h4>
 <h4r>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h4>
 
-
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="100"> </p>
+<h1> I'm learning: </h1>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="50"> <strong> & </strong>  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="50"></p>
 
 
 
