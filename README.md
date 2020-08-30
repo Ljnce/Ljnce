@@ -15,7 +15,7 @@
 
 ![](https://img.shields.io/badge/Site%20💻-https://therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/Linkedin%20💼-https://www.linkedin.com/in/lucalincettot-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Instagram%20📱-https://www.instagram.com/therunnerpost-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
