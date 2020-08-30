@@ -40,6 +40,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Ljnce&label=You+are+visitor+number&color=green)
 
-<p align=center> Thank for watching my repo</p>
+<h4 align=center> Thank for watching my profile</h4>
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
   
