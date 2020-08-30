@@ -13,9 +13,17 @@
 
 <h1> Get in Touch: </h1>
 
+<a href="https://therunnerpost.it">
+  
 ![](https://img.shields.io/badge/💻%20Site-therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
+</a>
+
+<a href="https://www.instagram.com/therunnerpost/">
+  
 ![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+</a>
 
 </br>
 
