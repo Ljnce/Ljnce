@@ -13,7 +13,7 @@
 
 <h1> Get in Touch: </h1>
 
-![](https://img.shields.io/badge/Site%20👨‍💻-https://therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Site%20💻-https://therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![](https://img.shields.io/badge/Linkedin%20💼-https://www.linkedin.com/in/lucalincettot-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
