@@ -5,10 +5,10 @@
 </br>
 
 <h1> I'm in passion with: </h1>
-<h3>&#183; 👨‍💻 Coding</h3>
-<h3>&#183; 🕵️‍♂️ Search new code to study</h3>
-<h3>&#183; 🛫 Travel</h3>
-<h3>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h3>
+<h4>&#183; 👨‍💻 Coding</h4>
+<h4>&#183; 🕵️‍♂️ Search new code to study</h4>
+<h4>&#183; 🛫 Travel</h4>
+<h4>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h4>
 
 </br>
 
@@ -21,13 +21,13 @@
 
 <a href="https://therunnerpost.it">
   
-![](https://img.shields.io/badge/💻%20Site-therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/💻%20Site-therunnerpost.it-informational?style=flat&color=yellow&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 </a>
 
 <a href="https://www.instagram.com/therunnerpost/">
   
-![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&color=orange&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 </a>
 
