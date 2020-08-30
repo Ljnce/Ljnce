@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋‍♂️%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
 
 <h3 align=center>&lsaquo;h2&rsaquo;  My name is Luca and i'm a Neo Jr Full Stack Web Developer &lsaquo;/h2&rsaquo;</h3>
 
 </br>
 
-<h1 style='color:red'>I'm in passion with : </h1>
+<h1>I'm in passion with : </h1>
+
 <h4>&#9745; 👨‍💻 Coding</h4>
 <h4>&#9745; 🕵️‍♂️ Search news about code </h4>
 <h4>&#9745; 🛫 Travel</h4>
