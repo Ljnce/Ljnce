@@ -13,9 +13,9 @@
 
 <h1> Get in Touch: </h1>
 
-![](https://img.shields.io/badge/Site%20💻-therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/💻%20Site-therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-![](https://img.shields.io/badge/Instagram%20📱-therunnerpost-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
