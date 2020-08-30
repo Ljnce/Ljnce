@@ -6,10 +6,10 @@
 </br>
 
 <h1> I'm in passion with: </h1>
-<h4>&#9745; <h1>👨‍💻</h1> Coding</h4>
-<h4>&#9745; <h1>🕵️‍♂️</h1> Search news about code </h4>
-<h4>&#9745; <h1>🛫</h1>Travel</h4>
-<h4>&#9745; <h1>🏃‍♂️</h1> Running & Cycling 🚵‍♂️ </h4>
+<h4>&#9745; 👨‍💻 Coding</h4>
+<h4>&#9745; 🕵️‍♂️ Search news about code </h4>
+<h4>&#9745; 🛫>Travel</h4>
+<h4>&#9745; 🏃‍ Running & Cycling 🚵‍♂️ </h4>
 
 </br>
 
