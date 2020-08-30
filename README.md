@@ -21,7 +21,7 @@
 
 </br>
 
-<h1> About my repo: </h1>
+<h1> &lsaquo;h2&rsaquo; About my repo: &lsaquo;/h2&rsaquo; </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
