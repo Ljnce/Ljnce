@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Ljnce&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Ljnce&label=You+are+visitor+number&color=green)
 
 <p align=center> Thank for watching my repo</p>
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
