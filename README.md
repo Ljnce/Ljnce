@@ -29,7 +29,7 @@
 
 </br>
 
-<img src="https://therunnerpost.it/img/Index/RunnerPost_Logo_Website.png" width="100">
+<img src="https://therunnerpost.it/img/Index/RunnerPost_Logo_Website.png" width="150">
 
 <a href="https://therunnerpost.it">
   
@@ -44,6 +44,8 @@
 </a>
 
 </br>
+
+<h1>  Bye: </h1>
 
 ![](https://komarev.com/ghpvc/?username=Ljnce&label=📈+You+are+visitor+number&color=green)
 
