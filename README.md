@@ -27,6 +27,10 @@
 
 <h1> Get in Touch:  </h1>
 
+</br>
+
+<img src="https://therunnerpost.it/img/Index/RunnerPost_Logo_Website.png" width="100">
+
 <a href="https://therunnerpost.it">
   
 ![](https://img.shields.io/badge/💻%20Site-therunnerpost.it-informational?style=flat&color=yellow&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
