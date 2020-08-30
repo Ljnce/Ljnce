@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=_ffb84d&height=250&section=header&text=Hello%20Dev%20👋&fontSize=40&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=333333&height=250&section=header&text=Hello%20Dev%20👋&fontSize=30&fontAlign=50&fontColor=FFFFFF)
 <h1> Hello Dev 👋</h1>
 
 <p>My name is Luca and i'm a Neo Jr Full Stack Web Developer </p>
@@ -18,4 +18,4 @@
 <p> You are visitor number: </p>
 ![Visitor Count](https://profile-counter.glitch.me/Ljnce/count.svg)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&height=250&text=Thanks%20for%20watch%20my%20repo%20🙋‍♂️&fontSize=50)
+![footer](https://capsule-render.vercel.app/api?section=footer&color=333333&height=250&text=Thanks%20for%20watch%20my%20repo%20🙋‍♂️&fontSize=30&fontAlign=50&fontColor=FFFFFF)
