@@ -3,8 +3,6 @@
 
 <p>My name is Luca and i'm a Neo Jr Full Stack Web Developer. I'm from Italy. </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ljnce&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1> I'm in passion with: </h1>
 <h4>&#183; 👨‍💻 Coding</h4>
@@ -18,6 +16,9 @@
 <h1> Get in Touch: </h1>
 <h4>&#183; 💻 https://therunnerpost.it </h4>
 <h4r>&#183; 💼 https://www.linkedin.com/in/lucalincetto/</h4>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ljnce&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> You are visitor number: </p>
 
