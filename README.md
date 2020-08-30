@@ -39,7 +39,7 @@
 
 <a href="https://www.instagram.com/therunnerpost/">
   
-![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&color=orange&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&color=red&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 </a>
 
@@ -53,7 +53,7 @@
 
 <h1>  Bye: </h1>
 
-![](https://komarev.com/ghpvc/?username=Ljnce&label=📈+You+are+visitor+number&color=red)
+![](https://komarev.com/ghpvc/?username=Ljnce&label=📈+You+are+visitor+number&color=green)
 
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">
   
