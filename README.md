@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1> Get in Touch: </h1>
+<h1> &lsaquo;h2&rsaquo; Get in Touch: &lsaquo;/h2&rsaquo; </h1>
 
 <a href="https://therunnerpost.it">
   
