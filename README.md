@@ -12,8 +12,10 @@
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="50"> <strong> & </strong>  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="150"></p>
 
 <h1> Get in Touch: </h1>
-<h4>&#183; 💻 https://therunnerpost.it </h4>
-<h4r>&#183; 💼 https://www.linkedin.com/in/lucalincetto/</h4>
+
+![](https://img.shields.io/badge/Site%20👨‍💻-https://therunnerpost.it-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![](https://img.shields.io/badge/Linkedin%20💼-https://www.linkedin.com/in/lucalincettot-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
