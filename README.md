@@ -2,7 +2,6 @@
 
 <h3 align=center>&lsaquo;h2&rsaquo;  My name is Luca and i'm a Neo Jr Full Stack Web Developer &lsaquo;/h2&rsaquo;</h3>
 
-
 </br>
 
 <h1> I'm in passion with: </h1>
