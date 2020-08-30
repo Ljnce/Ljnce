@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=d3d3d3&height=180&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
 
 <h3 align=center>&lsaquo;h2&rsaquo;  My name is Luca and i'm a Neo Jr Full Stack Web Developer &lsaquo;/h2&rsaquo;</h3>
 
