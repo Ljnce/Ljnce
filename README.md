@@ -6,10 +6,10 @@
 
 <h1>I'm in passion with : </h1>
 
-<h4>&#9745; 👨‍💻 Coding</h4>
-<h4>&#9745; 🕵️‍♂️ Search news about code </h4>
-<h4>&#9745; 🛫 Travel</h4>
-<h4>&#9745; 🏃‍ Running & Cycling 🚵‍♂️ </h4>
+<h4>&#9745;  👨‍💻 Coding</h4>
+<h4>&#9745;  🕵️‍♂️ Search news about code </h4>
+<h4>&#9745;  🛫 Travel</h4>
+<h4>&#9745;  🏃‍ Running & Cycling 🚵‍♂️ </h4>
 
 </br>
 
@@ -43,11 +43,17 @@
 
 </a>
 
+<a href="https://dev.to/ljnce">
+  
+![Dev](https://img.shields.io/badge/📝%20Dev_community-ljnce-informational?style=flat&color=orange&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+</a>
+
 </br>
 
 <h1>  Bye: </h1>
 
-![](https://komarev.com/ghpvc/?username=Ljnce&label=📈+You+are+visitor+number&color=green)
+![](https://komarev.com/ghpvc/?username=Ljnce&label=📈+You+are+visitor+number&color=red)
 
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">
   
