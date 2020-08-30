@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=egg&color=333333&height=160&section=header&text=Hello%20Dev&fontSize=30&fontAlign=50&fontColor=FFFFFF)
-<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"></p>
 
-<p>My name is Luca and i'm a Neo Jr Full Stack Web Developer </p>
+<p>My name is Luca and i'm a Neo Jr Full Stack Web Developer. I'm from Italy. </p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ljnce&show_icons=true&theme=dracula)
+
 <h1> I'm in passion with: </h1>
 <h4>&#183; 👨‍💻 Coding</h4>
 <h4r>&#183; 🕵️‍♂️ Search new code to study</h4>
