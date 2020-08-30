@@ -3,10 +3,10 @@
 <p>My name is Luca and i'm a Neo Jr Full Stack Web Developer. I'm from Italy. </p>
 
 <h1> I'm in passion with: </h1>
-<h4>&#183; 👨‍💻 Coding</h4>
-<h4>&#183; 🕵️‍♂️ Search new code to study</h4>
-<h4>&#183; 🛫 Travel</h4>
-<h4>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h4>
+<h3>&#183; 👨‍💻 Coding</h3>
+<h3>&#183; 🕵️‍♂️ Search new code to study</h3>
+<h3>&#183; 🛫 Travel</h3>
+<h3>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h3>
 
 <h1> I'm learning: </h1>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="50">  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/1390px-AngularJS_logo.svg.png" width="150"></p> 
