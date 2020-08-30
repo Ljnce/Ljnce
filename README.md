@@ -41,7 +41,7 @@
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=Ljnce&label=You+are+visitor+number&color=green)
+![](https://komarev.com/ghpvc/?username=Ljnce&label=You+are+visitor+number+📈&color=green)
 
 <h4 align=center> Thank for watching my profile</h4>
 <p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
