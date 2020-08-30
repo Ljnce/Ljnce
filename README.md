@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=333333&height=180&section=header&text=Hello%20Dev%20🙋&fontSize=50&fontAlign=50&fontColor=FFFFFF)
 
-<p>My name is Luca and i'm a Neo Jr Full Stack Web Developer. I'm from Italy. </p>
+<p align=center>My name is Luca and i'm a Neo Jr Full Stack Web Developer </p>
+
+</br>
 
 <h1> I'm in passion with: </h1>
 <h3>&#183; 👨‍💻 Coding</h3>
@@ -8,8 +10,12 @@
 <h3>&#183; 🛫 Travel</h3>
 <h3>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h3>
 
+</br>
+
 <h1> I'm learning: </h1>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="70">  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="180"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/1390px-AngularJS_logo.svg.png" width="180"></p> 
+
+</br>
 
 <h1> Get in Touch: </h1>
 
