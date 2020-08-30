@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=333333&height=180&section=header&text=Hello%20Dev%20🙋&fontSize=50&fontAlign=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rect&color=333333&height=180&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋%20&lsaquo;h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=FFFFFF)
 
-<p align=center>My name is Luca and i'm a Neo Jr Full Stack Web Developer </p>
+<h3 align=center> My name is Luca and i'm a Neo Jr Full Stack Web Developer</h3>
+
 
 </br>
 
