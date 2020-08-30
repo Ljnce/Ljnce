@@ -8,7 +8,7 @@
 <h4>&#183; 👨‍💻 Coding</h4>
 <h4>&#183; 🕵️‍♂️ Search new code to study</h4>
 <h4>&#183; 🛫 Travel</h4>
-<h4>&#183; 🏃‍♂️ 🚵‍♂️ Running & Cycling </h4>
+<h4>&#183; 🏃‍♂️ Running & Cycling 🚵‍♂️ </h4>
 
 </br>
 
@@ -16,6 +16,10 @@
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="70">  <img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="180"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/1390px-AngularJS_logo.svg.png" width="180"></p> 
 
 </br>
+
+<h1> About my repo: </h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1> Get in Touch: </h1>
 
@@ -32,10 +36,6 @@
 </a>
 
 </br>
-
-<h1> About my repo: </h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ljnce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Ljnce&label=You+are+visitor+number&color=green)
 
