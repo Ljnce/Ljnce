@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=180&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
 
 <h3 align=center>&lsaquo;h2&rsaquo;  My name is Luca and i'm a Neo Jr Full Stack Web Developer &lsaquo;/h2&rsaquo;</h3>
 
@@ -42,6 +42,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Ljnce&label=📈+You+are+visitor+number&color=green)
 
-<p align=center> &lsaquo;small&rsaquo; Thank for watching my profile &lsaquo;/small&rsaquo;</p>
-<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+<p align=center><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="80px">
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=footer&text=&lsaquo;small&rsaquo;%20Thanks%20for%20watching%20my%20profile%20&lsaquo;/small&rsaquo;&fontSize=20&fontAlign=50&fontColor=000000)
   
