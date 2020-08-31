@@ -4,6 +4,11 @@
 
 </br>
 
+<p align=center> Take your time, and let's see my profile: </p>
+
+<p align=center><img src="https://media1.tenor.com/images/6625a7a64ec32bf6ba212a86c757d7f6/tenor.gif?itemid=16240884" width="380px">
+</br>
+
 <h1>I'm in passion with: </h1>
 
 <h4>&#9745;  👨‍💻 Coding</h4>
