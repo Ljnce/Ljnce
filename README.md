@@ -4,12 +4,12 @@
 
 </br>
 
-<h1>I'm in passion with : </h1>
+<h1>I'm in passion with: </h1>
 
 <h4>&#9745;  👨‍💻 Coding</h4>
 <h4>&#9745;  🕵️‍♂️ Search news about code </h4>
 <h4>&#9745;  🛫 Travel</h4>
-<h4>&#9745;  🏃‍ Running & Cycling 🚵‍♂️ </h4>
+<h4>&#9745;  🏃‍ Running & MTB  🚵‍♂️ </h4>
 
 </br>
 
@@ -42,6 +42,10 @@
 ![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&color=red&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 </a>
+
+</br>
+
+<img src="https://camo.githubusercontent.com/8bbe5211f98dc9849521a6f1fcc332df0d8c2bbf/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f64336f356c397969716676317a3234636e3179702e706e67" width="90">
 
 <a href="https://dev.to/ljnce">
   
