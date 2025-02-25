@@ -1,4 +1,4 @@
-II![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋‍♂️%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋‍♂️%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
 
 <h3 align=center>&lsaquo;h2&rsaquo;  My name is Luca and i'm a Front End Web Developer &lsaquo;/h2&rsaquo;</h3>
 
@@ -44,8 +44,6 @@ II![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=
 </a>
 
 </br>
-
-<img src="https://camo.githubusercontent.com/8bbe5211f98dc9849521a6f1fcc332df0d8c2bbf/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f64336f356c397969716676317a3234636e3179702e706e67" width="90">
 
 <a href="https://dev.to/ljnce">
   
