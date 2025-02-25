@@ -1,4 +1,4 @@
-de![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋‍♂️%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=200&section=header&text=&lsaquo;h1&rsaquo;%20Hello%20Dev%20🙋‍♂️%20&lsaquo;/h1&rsaquo;&fontSize=50&fontAlign=50&fontColor=000000)
 
 <h3 align=center>&lsaquo;h2&rsaquo;  My name is Luca and i'm a Front End Web Developer &lsaquo;/h2&rsaquo;</h3>
 
@@ -48,6 +48,8 @@ de![header](https://capsule-render.vercel.app/api?type=wave&color=d3d3d3&height=
 ![Dev](https://img.shields.io/badge/📝%20Dev_community-ljnce-informational?style=flat&color=orange&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 </a>
+
+</br>
 
 <h1>  Bye: </h1>
 
