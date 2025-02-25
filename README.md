@@ -31,13 +31,13 @@
 
 <img src="https://therunnerpost.it/img/Index/RunnerPost_Logo_Website.png" width="150">
 
-<a href="https://therunnerpost.it">
+<a href="https://myroadrunningjourney.it">
   
 ![](https://img.shields.io/badge/💻%20Site-therunnerpost.it-informational?style=flat&color=yellow&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 </a>
 
-<a href="https://www.instagram.com/therunnerpost/">
+<a href="https://www.instagram.com/myroadrunningjourney/">
   
 ![Instagram](https://img.shields.io/badge/📱%20Instagram-therunnerpost-informational?style=flat&color=red&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
