@@ -7,19 +7,19 @@
 <p align=center> Take your time, and let's see my profile: </p>
 
 <p align=center><img src="https://media1.tenor.com/images/6625a7a64ec32bf6ba212a86c757d7f6/tenor.gif?itemid=16240884" width="380px">
-</br>
+
 
 <h1> In passion with: </h1>
 
 <h4>&#9745;  Coding 👨‍💻</h4>
 <h4>&#9745;  Travel 🛫</h4>
 <h4>&#9745;  Sport 🏃🏻‍♂️🚵🏻‍♂️🏊🏻‍♂️</h4>
-</br>
+
 
 <h1> In love with: </h1>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="85">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" width="90"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" width="60"></p> 
-</br>
+
 
 <h1>  About my repo: </h1>
 
