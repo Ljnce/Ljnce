@@ -12,9 +12,8 @@
 <h1>I'm in passion with: </h1>
 
 <h4>&#9745;  👨‍💻 Coding</h4>
-<h4>&#9745;  🕵️‍♂️ Searching news about coding (and trying) </h4>
 <h4>&#9745;  🛫 Travel</h4>
-<h4>&#9745;  🏃‍ Running </h4>
+<h4>&#9745;  🏃‍ Running</h4>
 
 </br>
 
